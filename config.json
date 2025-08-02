@@ -85,5 +85,17 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
-  }
+  },
+    "custom_category": [
+    {
+      "name": "仙逆",
+      "type": "tv",
+      "query": "仙逆"
+    },
+     {
+      "name": "斗破苍穹",
+      "type": "tv",
+      "query": "斗破苍穹"
+    }
+    ]
 }
