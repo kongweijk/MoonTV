@@ -99,27 +99,27 @@
      },
      {
       "name": "哈利波特",
-      "type": "tv",
+      "type": "movie",
       "query": "哈利波特"
      },
      {
       "name": "动作",
-      "type": "tv",
+      "type": "movie",
       "query": "动作"
      },
      {
       "name": "喜剧",
-      "type": "tv",
+      "type": "movie",
       "query": "喜剧"
      },
      {
       "name": "爱情",
-      "type": "tv",
+      "type": "movie",
       "query": "爱情"
      },
      {
       "name": "科幻",
-      "type": "tv",
+      "type": "movie",
       "query": "科幻"
      }
     ]
